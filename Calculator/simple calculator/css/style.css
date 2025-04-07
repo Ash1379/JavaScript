@@ -35,6 +35,11 @@ html,body{
   height: 50px;
   border-radius: 10px;
   border: none;
+  padding: 8px 10px;
+  max-width: 300px; 
+  display: block;
+ 
+          
   
 }
 #display:hover{
@@ -62,4 +67,10 @@ html,body{
   border: none;
   box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.1);
 
+}
+.div-l{
+  text-align: center;
+   font-weight: bold; 
+   font-size: 18px; 
+   margin-bottom: 10px;
 }
